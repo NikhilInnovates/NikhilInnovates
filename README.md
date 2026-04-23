@@ -1,5 +1,3 @@
-<!-- Profile README for NikhilInnovates -->
-
 <h1 align="center">Hi there, I'm Nikhil 👋</h1>
 
 <p align="center">
